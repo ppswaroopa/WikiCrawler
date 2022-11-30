@@ -3,7 +3,7 @@
 ## Contributors
 
 1. Pranava Swaroopa
-2. Jacob Schecter
+2. Jacob Schechter
 3. Jacob Webb
 4. Manning Graham
 
